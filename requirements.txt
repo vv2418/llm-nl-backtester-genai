@@ -1,0 +1,8 @@
+openai
+streamlit
+pandas
+yfinance
+matplotlib
+numpy
+pyarrow
+python-dotenv
