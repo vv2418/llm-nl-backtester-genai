@@ -6,3 +6,6 @@ matplotlib
 numpy
 pyarrow
 python-dotenv
+langgraph
+langchain
+langchain-openai
