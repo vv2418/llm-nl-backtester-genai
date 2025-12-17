@@ -144,6 +144,8 @@ Metrics are logged to `metrics_log.csv`. Run `python analysis/analyze_metrics.py
 - **Import errors**: Ensure all dependencies are installed (`pip install -r requirements.txt`)
 - **Pipeline errors**: Check terminal logs for detailed error messages
 - **Data fetch failures**: Verify ticker symbol and date range are valid
+  
+## Setup tutorial - https://drive.google.com/file/d/1ko90REr-hpD2-H6zjs2LfWaB-lHo1b0t/view?usp=sharing
 
 ## License
 
